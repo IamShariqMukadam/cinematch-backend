@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# ML artifacts
+*.joblib
+
+# OS
+.DS_Store
+
+# Large datasets (fetched from Hugging Face)
+data/*.csv
+
+# Environment
+.env
+venv/
