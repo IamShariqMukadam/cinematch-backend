@@ -13,6 +13,11 @@ TMDB_SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
 #to check if this works
 # print("TMDB KEY LOADED:", bool(TMDB_API_KEY))
 
+FRONTEND_URL = os.getenv("FRONTEND_URL")
+
+allowed_origins = [
+    "http://localhost:3000",
+]
 
 # --------------------
 # Load resources ONCE
@@ -56,9 +61,12 @@ app = FastAPI(
     description="Content-based movie recommendation engine using ML similarity",
     version="1.0.0"
     )
+if FRONTEND_URL:
+    allowed_origins.append(FRONTEND_URL)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins = allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
