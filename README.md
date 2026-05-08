@@ -144,11 +144,17 @@ curl "https://shariqmukadam-cinematch-backend.hf.space/recommend?movie=inception
 
 ## 👨‍💻 Author
 
-**Shariq Mukadam**
-
+<h3 align="center">Shariq Mukadam</h3>
+<div align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamShariqMukadam)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariq-mukadam)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 
 ---
 
