@@ -4,13 +4,11 @@
 
 ### AI-Powered Movie Recommendation System
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://cinematch-frontend-olive.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://cinematch-recommender.vercel.app)
+&nbsp;&nbsp;&nbsp;
 [![Backend API](https://img.shields.io/badge/⚡_API-2196F3?style=for-the-badge)](https://shariqmukadam-cinematch-backend.hf.space)
 
 **Intelligent movie recommendations using ML-powered content filtering with 10,000+ movies**
-
-[View Demo](https://cinematch-frontend-olive.vercel.app) • [Report Bug](https://github.com/IamShariqMukadam/cinematch/issues)
-
 </div>
 
 ---
@@ -26,10 +24,9 @@
 <details>
 <summary><b>📱 View Mobile Screenshots</b></summary>
 <br/>
-<p align="center">
-  <img src="/assets/cinematch-recommender.vercel.app_(iPhone 14 Pro Max).png" width="250"/>
-  <img src="/assets/cinematch-recommender.vercel.app__q=avengers&type=movie(iPhone 14 Pro Max).png" width="250"/>
-
+  <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img src="/assets/cinematch-recommender.vercel.app_(iPhone 14 Pro Max).png" width="30%" />
+  <img src="/assets/cinematch-recommender.vercel.app__q=avengers&type=movie(iPhone 14 Pro Max).png" width="30%" />
 </p>
 </details>
 
@@ -150,7 +147,7 @@ curl "https://shariqmukadam-cinematch-backend.hf.space/recommend?movie=inception
 **Shariq Mukadam**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamShariqMukadam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariq-mukadam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ---
