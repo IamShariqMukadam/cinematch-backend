@@ -19,6 +19,7 @@
 
 <div align="center">
   <img src="/assets/cinematch-recommender.vercel.app_.png" alt="Desktop" width="800"/>
+  <img src="/assets/cinematch-recommender.vercel.app__q=avengers&type=movie.png" alt="Desktop" width="800"/>
   <p><i>Smart search with real-time suggestions • Personalized recommendations • Genre filtering</i></p>
 </div>
 
@@ -26,9 +27,9 @@
 <summary><b>📱 View Mobile Screenshots</b></summary>
 <br/>
 <p align="center">
-  <img src="screenshots/mobile-home.png" width="250"/>
-  <img src="screenshots/mobile-search.png" width="250"/>
-  <img src="screenshots/mobile-recommendations.png" width="250"/>
+  <img src="/assets/cinematch-recommender.vercel.app_(iPhone 14 Pro Max).png" width="250"/>
+  <img src="/assets/cinematch-recommender.vercel.app__q=avengers&type=movie(iPhone 14 Pro Max).png" width="250"/>
+
 </p>
 </details>
 
