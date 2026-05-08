@@ -18,7 +18,7 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="/home/shariq/Downloads/cinematch-recommender.vercel.app_.png" alt="Desktop" width="800"/>
+  <img src="/assets/cinematch-recommender.vercel.app_.png" alt="Desktop" width="800"/>
   <p><i>Smart search with real-time suggestions • Personalized recommendations • Genre filtering</i></p>
 </div>
 
