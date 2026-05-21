@@ -6,7 +6,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://cinematch-recommender.vercel.app)
 &nbsp;&nbsp;&nbsp;
-[![Backend API](https://img.shields.io/badge/⚡_API-2196F3?style=for-the-badge)](https://shariqmukadam-cinematch-backend.hf.space)
+[![Backend API](https://img.shields.io/badge/⚡_API-2196F3?style=for-the-badge)](https://huggingface.co/spaces/ShariqMukadam/cinematch-backend)
 
 **Intelligent movie recommendations using ML-powered content filtering with 1M+ movies**
 </div>
