@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;
 [![Backend API](https://img.shields.io/badge/⚡_API-2196F3?style=for-the-badge)](https://shariqmukadam-cinematch-backend.hf.space)
 
-**Intelligent movie recommendations using ML-powered content filtering with 10,000+ movies**
+**Intelligent movie recommendations using ML-powered content filtering with 1M+ movies**
 </div>
 
 ---
@@ -57,7 +57,7 @@
 - Deployed on Hugging Face Spaces
 
 **Data**
-- TMDB Movie Dataset (10,000+ movies)
+- Full TMDB Movies Dataset 2024 (1M Movies)
 
 ---
 
